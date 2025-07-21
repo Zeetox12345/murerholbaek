@@ -3,10 +3,10 @@ import React from "react";
 const ExtensionContent: React.FC = () => {
   const htmlContent = `
     <section class="content-section space-y-6">
-      <h2 class="text-3xl font-semibold">Tilbygninger Slagelse – Udvid boligen med stil, funktion og værdi</h2>
-              <p>Pladsen bliver trang, familien vokser, eller drømmen om en lys udestue presser på. Med en gennemtænkt <strong>tilbygning Slagelse</strong> kan du forvandle boligen uden at flytte – og samtidigt øge ejendomsværdien markant. Her får du den mest detaljerede guide til lokalplaner, design, materialer, tidsplaner og priser for tilbygninger i Slagelse-området.</p>
+      <h2 class="text-3xl font-semibold">Tilbygninger Næstved – Udvid boligen med stil, funktion og værdi</h2>
+              <p>Pladsen bliver trang, familien vokser, eller drømmen om en lys udestue presser på. Med en gennemtænkt <strong>tilbygning Næstved</strong> kan du forvandle boligen uden at flytte – og samtidigt øge ejendomsværdien markant. Her får du den mest detaljerede guide til lokalplaner, design, materialer, tidsplaner og priser for tilbygninger i Næstved-området.</p>
 
-      <h3 class="text-2xl font-semibold mt-8">Hvorfor vælge en lokal specialist i tilbygninger i Slagelse?</h3>
+      <h3 class="text-2xl font-semibold mt-8">Hvorfor vælge en lokal specialist i tilbygninger i Næstved?</h3>
       <ul class="list-disc ml-6 space-y-2">
         <li><strong>Indgående kendskab til lokalplaner:</strong> En lokal entreprenør ved præcis, hvordan dit projekt kan godkendes – uden dyre omprojekteringer.</li>
         <li><strong>Håndtering af BR18 & energikrav:</strong> Ved en tilbygning &gt; 50 m² sørger vi for energirammeberegning, lavenergivinduer og ekstra isolering.</li>
@@ -48,7 +48,7 @@ const ExtensionContent: React.FC = () => {
         <li>Regnvandsopsamling til toiletskyl og havevanding.</li>
       </ul>
 
-      <h3 class="text-2xl font-semibold mt-8">Lokale regler for tilbygning Slagelse</h3>
+      <h3 class="text-2xl font-semibold mt-8">Lokale regler for tilbygning Næstved</h3>
       <div class="overflow-x-auto">
         <table class="min-w-full text-sm border border-gray-200">
           <thead class="bg-gray-50">
@@ -106,11 +106,11 @@ const ExtensionContent: React.FC = () => {
 
       <h3 class="text-2xl font-semibold mt-8">Kontakt os</h3>
       <p>Telefon: <a href="tel:+4527851381" class="font-bold text-terracotta">+27 85 13 81</a></p>
-              <p>E-mail: <a href="mailto:infomurerslagelse@gmail.com">infomurerslagelse@gmail.com</a></p>
-      <p>Serviceområde: Slagelse, Korsør, Skælskør, Sorø, Ringsted og omegn</p>
+              <p>E-mail: <a href="mailto:infomurernæstved@gmail.com">infomurernæstved@gmail.com</a></p>
+      <p>Serviceområde: Næstved, Vordingborg, Præstø, Faxe, Køge, Haslev og omegn</p>
       <p>Udfyld formularen “Få et uforpligtende tilbud” – budgetoverslag inden for 72 timer.</p>
 
-      <p class="mt-6">Med en professionel tilbygning Slagelse får du plads, komfort og energirigtige løsninger – uden at flytte. Tag det første skridt i dag!</p>
+      <p class="mt-6">Med en professionel tilbygning Næstved får du plads, komfort og energirigtige løsninger – uden at flytte. Tag det første skridt i dag!</p>
     </section>
   `;
 

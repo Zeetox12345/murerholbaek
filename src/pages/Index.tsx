@@ -11,10 +11,10 @@ import SEOContent, { faqItems } from "@/components/SEOContent";
 
 const Index = () => {
   useEffect(() => {
-    document.title = "Murer Slagelse | Lokalt murermesterteam – Facader, Badeværelser & Flisearbejde";
+    document.title = "Murer Næstved | Murermester – Facaderenovering, Badeværelse & Tilbygninger";
     const metaDesc = document.querySelector("meta[name='description']");
     if (metaDesc) {
-      metaDesc.setAttribute('content', 'Skal du bruge en erfaren murer i Slagelse? Vi leverer alt fra facaderenovering til flisearbejde. Få et GRATIS og uforpligtende tilbud – ring +27 85 13 81 i dag!');
+      metaDesc.setAttribute('content', 'Din erfarne murer i Næstved. Vi udfører facaderenovering, badeværelsesrenovering, flisearbejde og tilbygninger. Få GRATIS tilbud – ring +27 85 13 81.');
     }
   }, []);
   return (
@@ -33,10 +33,10 @@ const Index = () => {
             <div className="lg:col-span-2">
               <div className="animate-fade-in-up">
                 <h1 className="font-montserrat font-bold text-4xl md:text-5xl lg:text-6xl mb-6 leading-tight">
-                  Murer Slagelse – Dit lokale, professionelle murermesterteam
+                  Murer Næstved – Lokalt murermesterteam med garanti
                 </h1>
                 <h2 className="text-xl md:text-2xl mb-8 text-gray-200 font-medium max-w-3xl">
-                  Drømmer du om et nyt badeværelse, en solid tilbygning eller en facaderenovering, der holder i årtier? Hos Murer Slagelse får du specialiseret murerarbejde udført efter de højeste faglige standarder. Vi kombinerer traditionelle teknikker med moderne løsninger – og vi står klar til at forvandle dine byggedrømme til virkelighed.
+                  Vi hjælper private & erhverv i hele Næstved-området med alt fra energirigtig facaderenovering og eksklusive badeværelser til millimeterpræcist flisearbejde og nøglefærdige tilbygninger.
                 </h2>
                 <div className="flex flex-col sm:flex-row gap-4 mb-8">
                   <Button 
@@ -87,9 +87,9 @@ const Index = () => {
       {/* Intro Copy Section */}
       <section className="py-12 bg-off-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-3xl space-y-6 text-gray-700">
-                      <h2 className="font-montserrat font-bold text-2xl text-charcoal">Hvorfor vælge en lokal murer i Slagelse?</h2>
+                      <h2 className="font-montserrat font-bold text-2xl text-charcoal">Hvorfor vælge en lokal murer i Næstved?</h2>
           <p>
-                          Slagelses særlige klimaforhold stiller krav til alt fra fugtsikring til materialevalg. Som lokal murermester kender vi de gældende byggestandarder, myndighedskrav og de typiske murstenstyper i området. Det betyder mere holdbare løsninger, færre overraskelser og kort responstid, når du kontakter os på {PHONE_DISPLAY}.
+            Næstveds særlige klimaforhold stiller krav til alt fra fugtsikring til materialevalg. Som lokal murermester kender vi de gældende byggestandarder, myndighedskrav og de typiske murstenstyper i området. Det betyder mere holdbare løsninger, færre overraskelser og kort responstid, når du kontakter os på {PHONE_DISPLAY}.
           </p>
 
           <h2 className="font-montserrat font-bold text-2xl text-charcoal">Vores kerneydelser</h2>
@@ -119,7 +119,7 @@ const Index = () => {
                   <td className="px-4 py-2">Skræddersyede løsninger, byggestyring</td>
                 </tr>
                 <tr className="border-t">
-                                      <td className="px-4 py-2 font-medium">Flisearbejde Slagelse</td>
+                                      <td className="px-4 py-2 font-medium">Flisearbejde Næstved</td>
                   <td className="px-4 py-2">Køkken­fliser, klinker, natursten</td>
                   <td className="px-4 py-2">Millimeterpræcision, slidstærke fuger</td>
                 </tr>
@@ -137,7 +137,7 @@ const Index = () => {
               Vores Specialer
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Vi tilbyder professionelle murerløsninger til både private og erhvervskunder i Slagelse og omegn.
+              Vi tilbyder professionelle murerløsninger til både private og erhvervskunder i Næstved og omegn.
             </p>
           </div>
           
@@ -166,7 +166,7 @@ const Index = () => {
                 <div className="relative overflow-hidden">
                   <img 
                     src={service.image} 
-                    alt={`${service.title} - Murer Slagelse`}
+                    alt={`${service.title} - Murer Næstved`}
                     className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
                   />
                   <div className="absolute inset-0 bg-charcoal/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
@@ -258,21 +258,21 @@ const Index = () => {
             {
             "@context": "https://schema.org",
             "@type": "Service",
-            "name": "Murer Slagelse",
-            "description": "Professionel murermester i Slagelse med speciale i facaderenovering, badeværelser og flisearbejde",
+            "name": "Murer Næstved",
+            "description": "Professionel murermester i Næstved med speciale i facaderenovering, badeværelser og flisearbejde",
             "provider": {
               "@type": "LocalBusiness",
-              "name": "Murer Slagelse",
+              "name": "Murer Næstved",
                 "telephone": PHONE_LINK,
-                              "email": "infomurerslagelse@gmail.com",
+                "email": "infomurernæstved@gmail.com",
               "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "Slagelse",
-                                  "addressRegion": "Sjælland",
+                "addressLocality": "Næstved",
+                "addressRegion": "Sjælland",
                 "addressCountry": "DK"
               }
             },
-            "areaServed": "Slagelse",
+            "areaServed": "Næstved",
             "serviceType": "Murermester"
             },
             {

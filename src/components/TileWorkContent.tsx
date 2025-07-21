@@ -3,19 +3,18 @@ import React from "react";
 const TileWorkContent: React.FC = () => {
   const htmlContent = `
     <section class="content-section space-y-6">
-      <h2 class="text-3xl font-semibold">Flisearbejde Slagelse – Perfektion i hver eneste fuge</h2>
-              <p>Skæve hjørner, skrånende gulve eller store 60 × 120 cm klinker? Uanset om du planlægger et nyt køkken, et eksklusivt badeværelse eller en indbydende terrasse, er solidt <strong>flisearbejde Slagelse</strong> nøglen til et resultat, der både ser godt ud – og holder i årtier. Her får du den mest detaljerede guide til alt, hvad du skal vide om fliser, materialer, priser, trends og vedligehold i Slagelse-området.</p>
+      <h2 class="text-3xl font-semibold">Flisearbejde Næstved – Perfektion i hver eneste fuge</h2>
+              <p>Skal der renoveres badeværelse, køkken eller terrasse, er solidt <strong>flisearbejde Næstved</strong> nøglen til et resultat, der både ser godt ud – og holder i årtier. Her får du den mest detaljerede guide til alt, hvad du skal vide om fliser, materialer, priser, trends og vedligehold i Næstved-området.</p>
 
-              <h3 class="text-2xl font-semibold mt-8">Hvorfor vælge lokalt flisearbejde i Slagelse?</h3>
+              <h3 class="text-2xl font-semibold mt-8">Hvorfor vælge lokalt flisearbejde i Næstved?</h3>
       <ul class="list-disc ml-6 space-y-2">
-        <li>Lokal byggestandard – Slagelse Kommune kræver dokumenteret vådrumssikring (BR18) og frostsikre materialer udendørs.</li>
-                  <li>Kendskab til underlag – Gammelt pudslag i Slagelses murermestervillaer og letbeton i nyere rækkehuse kræver forskellig primer og klæb.</li>
-        <li>Hurtig responstid – Uventede revner eller løs fugning? En lokal specialist kan typisk rykke ud samme dag.</li>
-        <li>Netværk til VVS & Elektriker – Sikrer korrekt placering af fald, afløb og gulvvarmeslanger før fliserne lægges.</li>
-                  <li>Præcis levering – Lokale grossister som Stark Slagelse har de fleste fliser på lager, så projektet ikke forsinkes.</li>
+        <li>Lokal byggestandard – Næstved Kommune kræver dokumenteret vådrumssikring (BR18) og frostsikre materialer udendørs.</li>
+                  <li>Kendskab til underlag – Gammelt pudslag i Næstveds murermestervillaer og letbeton i nyere rækkehuse kræver forskellig primer og klæb.</li>
+        <li>Hurtig problemløsning – Hvis fliser krakelerer eller fuger bliver utætte, kan det ofte udbedres samme dag.</li>
+        <li>Præcis levering – Lokale grossister som Stark Næstved har de fleste fliser på lager, så projektet ikke forsinkes.</li>
       </ul>
 
-              <h3 class="text-2xl font-semibold mt-8">Populære fliseløsninger i Slagelse 2025</h3>
+              <h3 class="text-2xl font-semibold mt-8">Populære fliseløsninger i Næstved 2025</h3>
       <div class="overflow-x-auto">
         <table class="min-w-full text-sm border border-gray-200">
           <thead class="bg-gray-50">
@@ -50,7 +49,7 @@ const TileWorkContent: React.FC = () => {
         <li>CO₂-neutrale fliser: Producenter som Florim® tilbyder klimakompenserede kollektioner.</li>
       </ul>
 
-              <h3 class="text-2xl font-semibold mt-8">Prisguide – hvad koster flisearbejde i Slagelse?</h3>
+              <h3 class="text-2xl font-semibold mt-8">Prisguide – hvad koster flisearbejde i Næstved?</h3>
       <div class="overflow-x-auto">
         <table class="min-w-full text-sm border border-gray-200">
           <thead class="bg-gray-50">
@@ -67,7 +66,7 @@ const TileWorkContent: React.FC = () => {
           </tbody>
         </table>
       </div>
-              <p class="mt-2">Tip: Kombinér flisearbejde Slagelse med vores badeværelsesrenovering og spar op til 12 % på samlet arbejdsløn.</p>
+              <p class="mt-2">Tip: Kombinér flisearbejde Næstved med vores badeværelsesrenovering og spar op til 12 % på samlet arbejdsløn.</p>
 
       <h3 class="text-2xl font-semibold mt-8">Tilskud & fradrag</h3>
       <ul class="list-disc ml-6 space-y-2">
@@ -93,11 +92,11 @@ const TileWorkContent: React.FC = () => {
 
       <h3 class="text-2xl font-semibold mt-8">Kontakt os</h3>
       <p>Telefon: <a href="tel:+4527851381" class="font-bold text-terracotta">+27 85 13 81</a></p>
-              <p>E-mail: <a href="mailto:infomurerslagelse@gmail.com">infomurerslagelse@gmail.com</a></p>
-              <p>Serviceområde: Slagelse, Korsør, Skælskør, Sorø, Ringsted og omegn</p>
+              <p>E-mail: <a href="mailto:infomurernæstved@gmail.com">infomurernæstved@gmail.com</a></p>
+              <p>Serviceområde: Næstved, Vordingborg, Præstø, Faxe, Køge, Haslev og omegn</p>
       <p>Udfyld formularen “Få et uforpligtende tilbud” – vi vender tilbage samme hverdag!</p>
 
-              <p class="mt-6">Professionelt flisearbejde Slagelse sikrer millimeterpræcision, skimmelfri fuger og et resultat, der tåler hverdagens slid – kontakt os i dag, og lad os lægge grund­stenene til dit næste drømmeprojekt!</p>
+              <p class="mt-6">Professionelt flisearbejde Næstved sikrer millimeterpræcision, skimmelfri fuger og et resultat, der tåler hverdagens slid – kontakt os i dag, og lad os lægge grund­stenene til dit næste drømmeprojekt!</p>
     </section>
   `;
 

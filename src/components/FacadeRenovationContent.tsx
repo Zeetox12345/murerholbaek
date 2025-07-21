@@ -3,10 +3,10 @@ import React from "react";
 const FacadeRenovationContent: React.FC = () => {
   const htmlContent = `
     <section class="content-section space-y-6">
-      <h2 class="text-3xl font-semibold">Facaderenovering Slagelse – Styrk huset og spar energi</h2>
-              <p>Har din murstensfacade set bedre dage? Frostsprængte fuger, afskalninger og mørke fugtpletter er ikke kun et æstetisk problem – de kan føre til kuldebroer, skimmelsvamp og dyrere varmeregninger. På denne side får du det komplette overblik over facaderenovering Slagelse: metoder, materialer, priseksempler, tilskud og praktiske tips til et varigt resultat.</p>
+      <h2 class="text-3xl font-semibold">Facaderenovering Næstved – Styrk huset og spar energi</h2>
+              <p>Har din murstensfacade set bedre dage? Frostsprængte fuger, afskalninger og mørke fugtpletter er ikke kun et æstetisk problem – de kan føre til kuldebroer, skimmelsvamp og dyrere varmeregninger. På denne side får du det komplette overblik over facaderenovering Næstved: metoder, materialer, priseksempler, tilskud og praktiske tips til et varigt resultat.</p>
 
-      <h3 class="text-2xl font-semibold mt-8">Hvorfor er facaderenovering i Slagelse særlig vigtig?</h3>
+      <h3 class="text-2xl font-semibold mt-8">Hvorfor er facaderenovering i Næstved særlig vigtig?</h3>
       <ul class="list-disc ml-6 space-y-2">
         <li>Forebygger fugtskader – tætte fuger og diffusionsåben puds holder vandet ude.</li>
         <li>Reducerer varmetab – nye fuger + evt. facadeisolering nedbringer U-værdien.</li>
@@ -14,7 +14,7 @@ const FacadeRenovationContent: React.FC = () => {
         <li>Øger boligens salgsværdi – en velholdt facade signalerer sundt hus og mindre vedligehold.</li>
       </ul>
 
-      <h3 class="text-2xl font-semibold mt-8">De tre mest brugte metoder til facaderenovering Slagelse</h3>
+      <h3 class="text-2xl font-semibold mt-8">De tre mest brugte metoder til facaderenovering Næstved</h3>
       <div class="overflow-x-auto">
         <table class="min-w-full text-sm border border-gray-200">
           <thead class="bg-gray-50">
@@ -56,9 +56,9 @@ const FacadeRenovationContent: React.FC = () => {
 
       <h3 class="text-2xl font-semibold mt-10">Sådan forløber dit projekt – trin for trin</h3>
       <ol class="list-decimal ml-6 space-y-2">
-        <li>Gratis facadetjek (0-2 dage): Ring <a href="tel:+27851381" class="text-terracotta font-semibold">+27 85 13 81</a>, så kommer en facaderenovering Slagelse-ekspert forbi og laserscanner muren for revner og fugt.</li>
+        <li>Gratis facadetjek (0-2 dage): Ring <a href="tel:+27851381" class="text-terracotta font-semibold">+27 85 13 81</a>, så kommer en facaderenovering Næstved-ekspert forbi og laserscanner muren for revner og fugt.</li>
         <li>Detaljeret tilbud (2-4 dage): Fast pris pr. m², tidsplan, stilladsplan, affaldshåndtering og betalingsmilepæle.</li>
-        <li>Myndighedsgodkendelse (hvis krævet): Farveskift og facadeisolering mod offentlig vej kræver i visse zoner tilladelse fra Slagelse Kommune – vi klarer papirarbejdet.</li>
+        <li>Myndighedsgodkendelse (hvis krævet): Farveskift og facadeisolering mod offentlig vej kræver i visse zoner tilladelse fra Næstved Kommune – vi klarer papirarbejdet.</li>
         <li>Udførelse (1-10 dage): Stillads op, afdæk vinduer, mekanisk rens, udfør valgt metode.</li>
         <li>Aflevering & garanti: Gennemgang med dig samt 5 års BygGaranti. Du modtager vedligeholdelsesvejledning.</li>
       </ol>
@@ -69,9 +69,9 @@ const FacadeRenovationContent: React.FC = () => {
         <li>Vandskuring + hulmursisolering: 8-12 %.</li>
         <li>Netpuds m. 100 mm EPS: Op til 25 %.</li>
       </ul>
-      <p>Slagelse hører til klimazone 3; her er tilbagebetalingstiden for facadeisolering typisk 8-12 år.</p>
+      <p>Næstved hører til klimazone 3; her er tilbagebetalingstiden for facadeisolering typisk 8-12 år.</p>
 
-      <h3 class="text-2xl font-semibold mt-10">Tilskud og fradrag til facaderenovering i Slagelse</h3>
+      <h3 class="text-2xl font-semibold mt-10">Tilskud og fradrag til facaderenovering i Næstved</h3>
       <ul class="list-disc ml-6 space-y-1">
         <li>Håndværkerfradraget – op til 12.900 kr. pr. voksen til arbejdsløn (2025-satser).</li>
         <li>Energistyrelsens Bygningspulje – facader med energiforbedring kan få 15-25 % tilskud; kræver energimærke før/efter.</li>
@@ -79,7 +79,7 @@ const FacadeRenovationContent: React.FC = () => {
       </ul>
 
       <h3 class="text-2xl font-semibold mt-10">Ofte stillede spørgsmål (FAQ)</h3>
-      <details class="border rounded-md p-4 mb-2"><summary class="cursor-pointer font-medium">Hvor lang tid tager en facaderenovering?</summary><p>En typisk <strong>facaderenovering Slagelse</strong> på 140 m² tager 5-8 arbejdsdage inkl. stillads og oprydning.</p></details>
+      <details class="border rounded-md p-4 mb-2"><summary class="cursor-pointer font-medium">Hvor lang tid tager en facaderenovering?</summary><p>En typisk <strong>facaderenovering Næstved</strong> på 140 m² tager 5-8 arbejdsdage inkl. stillads og oprydning.</p></details>
       <details class="border rounded-md p-4 mb-2"><summary class="cursor-pointer font-medium">Kan man renovere facade om vinteren?</summary><p>Ja, men temperaturen skal holdes over 5 °C; vi anvender vintermørtel og telt med varmeblæsere for at sikre hærdning.</p></details>
       <details class="border rounded-md p-4 mb-2"><summary class="cursor-pointer font-medium">Hvilken mørteltype er bedst?</summary><p>Til moderne tegl anbefales KC 50/50/700; til ældre kalksten skal du vælge en ren kalkmørtel som NHL 3.5 for at undgå afskalninger.</p></details>
       <details class="border rounded-md p-4 mb-2"><summary class="cursor-pointer font-medium">Kan jeg selv fugte muren efter omfugning?</summary><p>Ja, let dusch morgen og aften i 3 dage hjælper hærdningen – men undgå højtryksspuler.</p></details>
@@ -95,11 +95,11 @@ const FacadeRenovationContent: React.FC = () => {
 
       <h3 class="text-2xl font-semibold mt-10">Kontakt os i dag</h3>
       <p>Telefon: <a href="tel:+4527851381" class="font-bold text-terracotta">+27 85 13 81</a></p>
-              <p>E-mail: <a href="mailto:infomurerslagelse@gmail.com">infomurerslagelse@gmail.com</a></p>
-      <p>Serviceområde: Slagelse, Korsør, Skælskør, Sorø, Ringsted og omegn</p>
+              <p>E-mail: <a href="mailto:infomurernæstved@gmail.com">infomurernæstved@gmail.com</a></p>
+      <p>Serviceområde: Næstved, Vordingborg, Præstø, Faxe, Køge, Haslev og omegn</p>
       <p>Gratis facadetjek: Udfyld formularen “Få et uforpligtende tilbud” – vi svarer inden for 24 timer.</p>
 
-      <p class="mt-8">Der er ingen grund til at leve med en træt facade. Med en professionel facaderenovering Slagelse får du et sundere, mere energieffektivt og flottere hjem – og det starter med et enkelt opkald.</p>
+      <p class="mt-8">Der er ingen grund til at leve med en træt facade. Med en professionel facaderenovering Næstved får du et sundere, mere energieffektivt og flottere hjem – og det starter med et enkelt opkald.</p>
     </section>
   `;
 

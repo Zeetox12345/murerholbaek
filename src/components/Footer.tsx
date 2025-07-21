@@ -14,15 +14,15 @@ const Footer = () => {
             <div className="flex items-center space-x-2 mb-4">
               <img
                 src="/favicon.png"
-                alt="Murer Slagelse Logo"
+                alt="Murer Næstved Logo"
                 className="h-10 w-auto object-contain"
               />
               <span className="font-montserrat font-bold text-xl">
-                Murer Slagelse
+                Murer Næstved
               </span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
-              Professionel murermester i Slagelse med speciale i facaderenovering, 
+              Professionel murermester i Næstved med speciale i facaderenovering, 
               badeværelser og flisearbejde. Vi leverer altid kvalitet til tiden.
             </p>
             <div className="space-y-2">
@@ -34,13 +34,13 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 text-terracotta" />
-                        <a href="mailto:infomurerslagelse@gmail.com" className="hover:text-terracotta transition-colors">
-          infomurerslagelse@gmail.com
+                        <a href="mailto:infomurernæstved@gmail.com" className="hover:text-terracotta transition-colors">
+          infomurernæstved@gmail.com
                 </a>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="w-4 h-4 text-terracotta" />
-                <span>Slagelse, Sjælland</span>
+                <span>Næstved, Sjælland</span>
               </div>
             </div>
           </div>
@@ -72,19 +72,14 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="border-t border-gray-600 mt-8 pt-8">
-          <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2025 Murer Slagelse. Alle rettigheder forbeholdes.
-            </p>
-            {/* Removed privacy & cookies links as requested */}
-          </div>
-          <div className="mt-4 pt-4 border-t border-gray-700">
-            <p className="text-gray-500 text-xs text-center">
-              murerslagelse.dk formidler kontakt til autoriserede murermestre i Slagelse. 
-              Vi udfører ikke selv murerarbejde.
-            </p>
-          </div>
+        <div className="mt-8 pt-8 border-t border-gray-700 text-center text-gray-400">
+          <p className="mb-2">
+            © 2025 Murer Næstved. Alle rettigheder forbeholdes.
+          </p>
+          <p className="text-sm">
+            Disclaimer: Denne side formidler kontakt til autoriserede murermestre. 
+            murernaestved.dk formidler kontakt til autoriserede murermestre i Næstved.
+          </p>
         </div>
       </div>
     </footer>

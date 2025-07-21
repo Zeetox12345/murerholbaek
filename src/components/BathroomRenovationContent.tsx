@@ -3,18 +3,18 @@ import React from "react";
 const BathroomRenovationContent: React.FC = () => {
   const htmlContent = `
     <section class="content-section space-y-6">
-      <h2 class="text-3xl font-semibold">Badeværelsesrenovering Slagelse – Fra slidt vådrum til drømmespa</h2>
-              <p>Et gammelt, fugtigt eller uinspirerende badeværelse kan sænke boligens værdi, øge risikoen for skimmelsvamp – og ganske enkelt ødelægge hverdagskomforten. Med en professionel <strong>badeværelsesrenovering Slagelse</strong> får du et sundt, energirigtigt og æstetisk badeværelse, der holder i årtier. På denne side finder du den mest komplette guide til planlægning, priser, materialer, myndighedskrav og vedligehold – alt skræddersyet til Slagelse-området.</p>
+      <h2 class="text-3xl font-semibold">Badeværelsesrenovering Næstved – Fra slidt vådrum til drømmespa</h2>
+              <p>Et gammelt, fugtigt eller uinspirerende badeværelse kan sænke boligens værdi, øge risikoen for skimmelsvamp – og ganske enkelt ødelægge hverdagskomforten. Med en professionel <strong>badeværelsesrenovering Næstved</strong> får du et sundt, energirigtigt og æstetisk badeværelse, der holder i årtier. På denne side finder du den mest komplette guide til planlægning, priser, materialer, myndighedskrav og vedligehold – alt skræddersyet til Næstved-området.</p>
 
-      <h3 class="text-2xl font-semibold mt-8">Hvorfor er en lokal badeværelsesrenovering i Slagelse en god idé?</h3>
+      <h3 class="text-2xl font-semibold mt-8">Hvorfor er en lokal badeværelsesrenovering i Næstved en god idé?</h3>
       <ul class="list-disc ml-6 space-y-2">
-        <li><strong>Kendskab til grundvandet:</strong> Slagelse har højt grundvandsniveau, især i kældre. En lokal entreprenør ved, hvornår ekstra fugtmembran eller kapillarbrydende lag er nødvendigt.</li>
-        <li><strong>Overholdelse af BR18-vådrumsregler:</strong> Vådrum skal opfylde skærpede krav til fald, fugtspærre og afløb. Lokale håndværkere har rutine i dialogen med Slagelse Kommunes byggesags­enhed.</li>
+        <li><strong>Kendskab til grundvandet:</strong> Næstved har højt grundvandsniveau, især i kældre. En lokal entreprenør ved, hvornår ekstra fugtmembran eller kapillarbrydende lag er nødvendigt.</li>
+        <li><strong>Overholdelse af BR18-vådrumsregler:</strong> Vådrum skal opfylde skærpede krav til fald, fugtspærre og afløb. Lokale håndværkere har rutine i dialogen med Næstved Kommunes byggesags­enhed.</li>
         <li><strong>Netværk af VVS- og el-specialister:</strong> Hurtig koordinering mellem murer, elektriker og autoriseret VVS’er minimerer nedetiden – du er ikke uden bad i ugevis.</li>
         <li><strong>Kort transport = lavere omkostninger:</strong> Lokale leverancer af fliser, sanitet og gips sparer både tid og CO₂.</li>
       </ul>
 
-      <h3 class="text-2xl font-semibold mt-8">Populære løsninger til badeværelsesrenovering Slagelse</h3>
+      <h3 class="text-2xl font-semibold mt-8">Populære løsninger til badeværelsesrenovering Næstved</h3>
       <div class="overflow-x-auto">
         <table class="min-w-full text-sm border border-gray-200">
           <thead class="bg-gray-50">
@@ -32,7 +32,7 @@ const BathroomRenovationContent: React.FC = () => {
       <h3 class="text-2xl font-semibold mt-8">Projektforløb – trin for trin</h3>
       <ol class="list-decimal ml-6 space-y-2">
         <li><strong>Gratis rådgivning & 3D-design:</strong> Ring <a href="tel:+27851381" class="text-terracotta font-semibold">+27 85 13 81</a> eller brug tilbudsformularen. Vi tager mål, scanner rørføringer og laver en fotorealistisk 3D-tegning, så du kan “gå tur” i dit nye badeværelse, før vi bygger.</li>
-        <li><strong>Nedrivning & bortskaffelse:</strong> Gamle fliser, gipsvægge og støbejernsrør fjernes. Alt byggeaffald sorteres i henhold til Slagelse Kommunes affaldsplan.</li>
+        <li><strong>Nedrivning & bortskaffelse:</strong> Gamle fliser, gipsvægge og støbejernsrør fjernes. Alt byggeaffald sorteres i henhold til Næstved Kommunes affaldsplan.</li>
         <li><strong>Grovarbejde:</strong>
           <ul class="list-disc ml-6 mt-1 space-y-1">
             <li>Vandtæt fugtspærre (A-kvalitet folie + flydespartel)</li>
@@ -68,7 +68,7 @@ const BathroomRenovationContent: React.FC = () => {
         <li>Genbrug af “gråt vand” fra håndvask til skyl: reducerer vandforbrug ~20 %.</li>
       </ul>
 
-      <h3 class="text-2xl font-semibold mt-8">Priseksempel – 7 m² komplet badeværelsesrenovering i Slagelse</h3>
+      <h3 class="text-2xl font-semibold mt-8">Priseksempel – 7 m² komplet badeværelsesrenovering i Næstved</h3>
       <div class="overflow-x-auto">
         <table class="min-w-full text-sm border border-gray-200">
           <thead class="bg-gray-50">
@@ -104,11 +104,11 @@ const BathroomRenovationContent: React.FC = () => {
 
       <h3 class="text-2xl font-semibold mt-8">Kontakt os – dit nye spa-oase starter her</h3>
       <p>Telefon: <a href="tel:+4527851381" class="font-bold text-terracotta">+27 85 13 81</a></p>
-              <p>E-mail: <a href="mailto:infomurerslagelse@gmail.com">infomurerslagelse@gmail.com</a></p>
-      <p>Serviceområde: Slagelse, Korsør, Skælskør, Sorø, Ringsted og omegn</p>
+              <p>E-mail: <a href="mailto:infomurernæstved@gmail.com">infomurernæstved@gmail.com</a></p>
+      <p>Serviceområde: Næstved, Vordingborg, Præstø, Faxe, Køge, Haslev og omegn</p>
       <p>Udfyld formularen “Få et uforpligtende tilbud nu”, så vender vi tilbage inden for 24 timer.</p>
 
-      <p class="mt-6">Med en professionel badeværelsesrenovering Slagelse får du ikke bare et flot rum – du investerer i sundhed, energibesparelse og øget boligværdi. Ring i dag!</p>
+      <p class="mt-6">Med en professionel badeværelsesrenovering Næstved får du ikke bare et flot rum – du investerer i sundhed, energibesparelse og øget boligværdi. Ring i dag!</p>
     </section>
   `;
 

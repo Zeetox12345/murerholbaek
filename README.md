@@ -1,13 +1,13 @@
 
-# Murer Slagelse - Rank-and-Rent Lead Generation Website
+# Murer Næstved - Rank-and-Rent Lead Generation Website
 
-Dette er en professionel murer website designet til lead generation i Slagelse området.
+Dette er en professionel murer website designet til lead generation i Næstved området.
 
 ## Projekt Oversigt
 
-**Domæne**: murerslagelse.dk  
-**Primære Søgeord**: "murer slagelse"  
-**Målgruppe**: Husejere og virksomheder i Slagelse og omegn der har brug for murerarbejde
+**Domæne**: murernaestved.dk  
+**Primære Søgeord**: "murer næstved"  
+**Målgruppe**: Husejere og virksomheder i Næstved og omegn der har brug for murerarbejde
 
 ## Features
 
@@ -26,7 +26,7 @@ Dette er en professionel murer website designet til lead generation i Slagelse o
 - **Sitemap og robots.txt** for SEO
 
 ### 🚧 TODO (skal tilpasses senere)
-- **Formular integration**: Tilslut til infomurerslagelse@gmail.com
+- **Formular integration**: Tilslut til infomurernæstved@gmail.com
 - **Webhook setup**: Zapier integration for lead tracking
 - **Rigtige testimonials**: Erstat placeholder tekster
 - **Juridisk indhold**: GDPR-klar privatlivspolitik
@@ -45,7 +45,7 @@ Dette er en professionel murer website designet til lead generation i Slagelse o
 
 ## Installation & Deployment
 
-1. **Upload alle filer** til roden af murerslagelse.dk
+1. **Upload alle filer** til roden af murernaestved.dk
 2. **Peg A-record** på server IP-adresse
 3. **Tilret content** i TODO-markerede sektioner
 4. **Test kontaktformular** og mail-integration
@@ -68,7 +68,7 @@ Dette er en professionel murer website designet til lead generation i Slagelse o
 1. **Bruger finder siden** via Google søgning
 2. **Sticky formular** eller mobile CTA fanger opmærksomhed
 3. **Formular udfyldelse** med projektdetaljer
-4. **Email til infomurerslagelse@gmail.com** + webhook
+4. **Email til infomurernæstved@gmail.com** + webhook
 5. **Success toast** med forventning om opkald
 6. **Lead følges op** inden for 24 timer
 

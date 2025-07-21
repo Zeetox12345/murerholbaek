@@ -15,11 +15,10 @@ const Politik = () => {
             <section>
               <h2 className="font-montserrat font-semibold text-2xl mb-4">Privatlivspolitik</h2>
               <p className="text-gray-700 mb-4">
-                Hos <strong>Murer&nbsp;Slagelse</strong> værner vi om dit privatliv. Når du
-                besøger vores hjemmeside eller kontakter os, behandler vi kun de
-                personoplysninger, der er nødvendige for at kunne svare på din
-                henvendelse og levere vores services. De typiske oplysninger er
-                navn, adresse, telefonnummer og e-mailadresse.
+                Hos <strong>Murer&nbsp;Næstved</strong> værner vi om dit privatliv. Når du
+                kontakter os via vores hjemmeside eller telefon, behandler vi kun
+                de personoplysninger, der er nødvendige for at kunne levere den
+                service, du har bedt om.
               </p>
               <p className="text-gray-700 mb-4">
                 Oplysningerne anvendes til:
@@ -74,8 +73,8 @@ const Politik = () => {
                 kan du kontakte os på:
               </p>
               <div className="bg-gray-50 p-4 rounded-lg">
-                      <p><strong>Murer Slagelse</strong></p>
-      <p>E-mail: infomurerslagelse@gmail.com</p>
+                <p><strong>Murer Næstved</strong></p>
+      <p>E-mail: infomurernæstved@gmail.com</p>
                 <p>Telefon: {PHONE_DISPLAY}</p>
               </div>
             </section>
