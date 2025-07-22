@@ -3,18 +3,18 @@ import React from "react";
 const BathroomRenovationContent: React.FC = () => {
   const htmlContent = `
     <section class="content-section space-y-6">
-      <h2 class="text-3xl font-semibold">Badeværelsesrenovering Næstved – Fra slidt vådrum til drømmespa</h2>
-              <p>Et gammelt, fugtigt eller uinspirerende badeværelse kan sænke boligens værdi, øge risikoen for skimmelsvamp – og ganske enkelt ødelægge hverdagskomforten. Med en professionel <strong>badeværelsesrenovering Næstved</strong> får du et sundt, energirigtigt og æstetisk badeværelse, der holder i årtier. På denne side finder du den mest komplette guide til planlægning, priser, materialer, myndighedskrav og vedligehold – alt skræddersyet til Næstved-området.</p>
+      <h2 class="text-3xl font-semibold">Badeværelsesrenovering Holbæk – Fra slidt vådrum til drømmespa</h2>
+              <p>Et gammelt, fugtigt eller uinspirerende badeværelse kan sænke boligens værdi, øge risikoen for skimmelsvamp – og ganske enkelt ødelægge hverdagskomforten. Med en professionel <strong>badeværelsesrenovering Holbæk</strong> får du et sundt, energirigtigt og æstetisk badeværelse, der holder i årtier. På denne side finder du den mest komplette guide til planlægning, priser, materialer, myndighedskrav og vedligehold – alt skræddersyet til Holbæk-området.</p>
 
-      <h3 class="text-2xl font-semibold mt-8">Hvorfor er en lokal badeværelsesrenovering i Næstved en god idé?</h3>
+      <h3 class="text-2xl font-semibold mt-8">Hvorfor er en lokal badeværelsesrenovering i Holbæk en god idé?</h3>
       <ul class="list-disc ml-6 space-y-2">
-        <li><strong>Kendskab til grundvandet:</strong> Næstved har højt grundvandsniveau, især i kældre. En lokal entreprenør ved, hvornår ekstra fugtmembran eller kapillarbrydende lag er nødvendigt.</li>
-        <li><strong>Overholdelse af BR18-vådrumsregler:</strong> Vådrum skal opfylde skærpede krav til fald, fugtspærre og afløb. Lokale håndværkere har rutine i dialogen med Næstved Kommunes byggesags­enhed.</li>
+        <li><strong>Kendskab til grundvandet:</strong> Holbæk har højt grundvandsniveau, især i kældre. En lokal entreprenør ved, hvornår ekstra fugtmembran eller kapillarbrydende lag er nødvendigt.</li>
+        <li><strong>Overholdelse af BR18-vådrumsregler:</strong> Vådrum skal opfylde skærpede krav til fald, fugtspærre og afløb. Lokale håndværkere har rutine i dialogen med Holbæk Kommunes byggesags­enhed.</li>
         <li><strong>Netværk af VVS- og el-specialister:</strong> Hurtig koordinering mellem murer, elektriker og autoriseret VVS’er minimerer nedetiden – du er ikke uden bad i ugevis.</li>
         <li><strong>Kort transport = lavere omkostninger:</strong> Lokale leverancer af fliser, sanitet og gips sparer både tid og CO₂.</li>
       </ul>
 
-      <h3 class="text-2xl font-semibold mt-8">Populære løsninger til badeværelsesrenovering Næstved</h3>
+      <h3 class="text-2xl font-semibold mt-8">Populære løsninger til badeværelsesrenovering Holbæk</h3>
       <div class="overflow-x-auto">
         <table class="min-w-full text-sm border border-gray-200">
           <thead class="bg-gray-50">

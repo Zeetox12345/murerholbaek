@@ -3,18 +3,18 @@ import React from "react";
 const TileWorkContent: React.FC = () => {
   const htmlContent = `
     <section class="content-section space-y-6">
-      <h2 class="text-3xl font-semibold">Flisearbejde Næstved – Perfektion i hver eneste fuge</h2>
-              <p>Skal der renoveres badeværelse, køkken eller terrasse, er solidt <strong>flisearbejde Næstved</strong> nøglen til et resultat, der både ser godt ud – og holder i årtier. Her får du den mest detaljerede guide til alt, hvad du skal vide om fliser, materialer, priser, trends og vedligehold i Næstved-området.</p>
+          <h2 class="text-3xl font-semibold">Flisearbejde Holbæk – Perfektion i hver eneste fuge</h2>
+    <p>Skal der renoveres badeværelse, køkken eller terrasse, er solidt <strong>flisearbejde Holbæk</strong> nøglen til et resultat, der både ser godt ud – og holder i årtier. Her får du den mest detaljerede guide til alt, hvad du skal vide om fliser, materialer, priser, trends og vedligehold i Holbæk-området.</p>
 
-              <h3 class="text-2xl font-semibold mt-8">Hvorfor vælge lokalt flisearbejde i Næstved?</h3>
+              <h3 class="text-2xl font-semibold mt-8">Hvorfor vælge lokalt flisearbejde i Holbæk?</h3>
       <ul class="list-disc ml-6 space-y-2">
-        <li>Lokal byggestandard – Næstved Kommune kræver dokumenteret vådrumssikring (BR18) og frostsikre materialer udendørs.</li>
-                  <li>Kendskab til underlag – Gammelt pudslag i Næstveds murermestervillaer og letbeton i nyere rækkehuse kræver forskellig primer og klæb.</li>
+        <li>Lokal byggestandard – Holbæk Kommune kræver dokumenteret vådrumssikring (BR18) og frostsikre materialer udendørs.</li>
+                  <li>Kendskab til underlag – Gammelt pudslag i Holbæks murermestervillaer og letbeton i nyere rækkehuse kræver forskellig primer og klæb.</li>
         <li>Hurtig problemløsning – Hvis fliser krakelerer eller fuger bliver utætte, kan det ofte udbedres samme dag.</li>
-        <li>Præcis levering – Lokale grossister som Stark Næstved har de fleste fliser på lager, så projektet ikke forsinkes.</li>
+        <li>Præcis levering – Lokale grossister som Stark Holbæk har de fleste fliser på lager, så projektet ikke forsinkes.</li>
       </ul>
 
-              <h3 class="text-2xl font-semibold mt-8">Populære fliseløsninger i Næstved 2025</h3>
+              <h3 class="text-2xl font-semibold mt-8">Populære fliseløsninger i Holbæk 2025</h3>
       <div class="overflow-x-auto">
         <table class="min-w-full text-sm border border-gray-200">
           <thead class="bg-gray-50">
@@ -49,7 +49,7 @@ const TileWorkContent: React.FC = () => {
         <li>CO₂-neutrale fliser: Producenter som Florim® tilbyder klimakompenserede kollektioner.</li>
       </ul>
 
-              <h3 class="text-2xl font-semibold mt-8">Prisguide – hvad koster flisearbejde i Næstved?</h3>
+              <h3 class="text-2xl font-semibold mt-8">Prisguide – hvad koster flisearbejde i Holbæk?</h3>
       <div class="overflow-x-auto">
         <table class="min-w-full text-sm border border-gray-200">
           <thead class="bg-gray-50">
@@ -66,7 +66,7 @@ const TileWorkContent: React.FC = () => {
           </tbody>
         </table>
       </div>
-              <p class="mt-2">Tip: Kombinér flisearbejde Næstved med vores badeværelsesrenovering og spar op til 12 % på samlet arbejdsløn.</p>
+              <p class="mt-2">Tip: Kombinér flisearbejde Holbæk med vores badeværelsesrenovering og spar op til 12 % på samlet arbejdsløn.</p>
 
       <h3 class="text-2xl font-semibold mt-8">Tilskud & fradrag</h3>
       <ul class="list-disc ml-6 space-y-2">
@@ -92,11 +92,11 @@ const TileWorkContent: React.FC = () => {
 
       <h3 class="text-2xl font-semibold mt-8">Kontakt os</h3>
       <p>Telefon: <a href="tel:+4527851381" class="font-bold text-terracotta">+27 85 13 81</a></p>
-              <p>E-mail: <a href="mailto:infomurernæstved@gmail.com">infomurernæstved@gmail.com</a></p>
-              <p>Serviceområde: Næstved, Vordingborg, Præstø, Faxe, Køge, Haslev og omegn</p>
+                    <p>E-mail: <a href="mailto:infomurerholbaek@gmail.com">infomurerholbaek@gmail.com</a></p>
+      <p>Serviceområde: Holbæk, Kalundborg, Odsherred, Lejre, Ringsted, Sorø og omegn</p>
       <p>Udfyld formularen “Få et uforpligtende tilbud” – vi vender tilbage samme hverdag!</p>
 
-              <p class="mt-6">Professionelt flisearbejde Næstved sikrer millimeterpræcision, skimmelfri fuger og et resultat, der tåler hverdagens slid – kontakt os i dag, og lad os lægge grund­stenene til dit næste drømmeprojekt!</p>
+              <p class="mt-6">Professionelt flisearbejde Holbæk sikrer millimeterpræcision, skimmelfri fuger og et resultat, der tåler hverdagens slid – kontakt os i dag, og lad os lægge grund­stenene til dit næste drømmeprojekt!</p>
     </section>
   `;
 

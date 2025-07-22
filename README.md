@@ -1,13 +1,13 @@
 
-# Murer Næstved - Rank-and-Rent Lead Generation Website
+# Murer Holbæk - Rank-and-Rent Lead Generation Website
 
-Dette er en professionel murer website designet til lead generation i Næstved området.
+Dette er en professionel murer website designet til lead generation i Holbæk området.
 
 ## Projekt Oversigt
 
-**Domæne**: murernaestved.dk  
-**Primære Søgeord**: "murer næstved"  
-**Målgruppe**: Husejere og virksomheder i Næstved og omegn der har brug for murerarbejde
+**Domæne**: murerholbaek.dk  
+**Primære Søgeord**: "murer holbæk"  
+**Målgruppe**: Husejere og virksomheder i Holbæk og omegn der har brug for murerarbejde
 
 ## Features
 
@@ -45,7 +45,7 @@ Dette er en professionel murer website designet til lead generation i Næstved o
 
 ## Installation & Deployment
 
-1. **Upload alle filer** til roden af murernaestved.dk
+1. **Upload alle filer** til roden af murerholbaek.dk
 2. **Peg A-record** på server IP-adresse
 3. **Tilret content** i TODO-markerede sektioner
 4. **Test kontaktformular** og mail-integration

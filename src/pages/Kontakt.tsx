@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 
 const Kontakt = () => {
   useEffect(() => {
-    document.title = "Kontakt | Murer Næstved - Få et uforpligtende tilbud";
+    document.title = "Kontakt | Murer Holbæk - Få et uforpligtende tilbud";
   }, []);
 
   return (

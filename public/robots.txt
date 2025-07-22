@@ -4,4 +4,4 @@ Allow: /
 Disallow: /politik
 
 # Sitemap reference
-Sitemap: https://murernaestved.dk/sitemap.xml
+Sitemap: https://murerholbaek.dk/sitemap.xml

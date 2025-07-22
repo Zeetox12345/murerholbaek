@@ -49,7 +49,7 @@ const Services = () => {
             </h1>
             <p className="text-xl text-gray-200 mb-8">
               Vi leverer professionel murertjenester til private og erhvervskunder 
-              i Næstved og omegn. Se vores specialer nedenfor.
+              i Holbæk og omegn. Se vores specialer nedenfor.
             </p>
           </div>
         </div>

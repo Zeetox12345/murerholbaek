@@ -36,16 +36,16 @@ const SEOContent = () => {
     <>
       {/* Intro */}
       <section id="intro" className="content-section container mx-auto px-4 sm:px-6 lg:px-8 my-16 max-w-prose">
-        <h1 className="text-3xl lg:text-4xl font-semibold mb-4">Murer&nbsp;Næstved – Din komplette guide til stærkt, langtidsholdbart murerarbejde</h1>
-        <p className="mb-4">Velkommen til Næstveds mest omfattende ressource om professionelt murerarbejde. Her finder du alt, du skal vide, før du hyrer en <strong>murer Næstved</strong> – fra konkrete priseksempler og materialevalg til tips om myndighedskrav, klimasikring og energibesparelse. Formålet er at give dig et solidt beslutningsgrundlag, så du kan vælge den rigtige løsning og undgå dyre fejltagelser.</p>
+              <h1 className="text-3xl lg:text-4xl font-semibold mb-4">Murer&nbsp;Holbæk – Din komplette guide til stærkt, langtidsholdbart murerarbejde</h1>
+      <p className="mb-4">Velkommen til Holbæks mest omfattende ressource om professionelt murerarbejde. Her finder du alt, du skal vide, før du hyrer en <strong>murer Holbæk</strong> – fra konkrete priseksempler og materialevalg til tips om myndighedskrav, klimasikring og energibesparelse. Formålet er at give dig et solidt beslutningsgrundlag, så du kan vælge den rigtige løsning og undgå dyre fejltagelser.</p>
       </section>
 
       {/* Why local */}
       <section id="why-local" className="content-section container mx-auto px-4 sm:px-6 lg:px-8 my-16 max-w-prose">
-        <h2 className="text-2xl font-semibold mb-3">Hvorfor vælge en lokal murer i Næstved?</h2>
+        <h2 className="text-2xl font-semibold mb-3">Hvorfor vælge en lokal murer i Holbæk?</h2>
         <ul className="list-disc ml-6 space-y-2">
-                  <li><strong>Materialerne</strong> – De røde Næstved-sten, kalksandsten og gule flensburgersten varierer i sugeevne og kræver forskellige mørteltyper.</li>
-        <li><strong>Kommunens byggeregler</strong> – Næstved Kommune har skærpede krav til kystnært byggeri, bebyggelsesprocenter i sommerhusområder og afstand til skel.</li>
+                  <li><strong>Materialerne</strong> – De røde Holbæk-sten, kalksandsten og gule flensburgersten varierer i sugeevne og kræver forskellige mørteltyper.</li>
+        <li><strong>Kommunens byggeregler</strong> – Holbæk Kommune har skærpede krav til kystnært byggeri, bebyggelsesprocenter i sommerhusområder og afstand til skel.</li>
           <li><strong>Leverandørnetværket</strong> – Hurtig levering af specialbrændte sten, stillads og letklinkerblokke sparer dig både tid og penge.</li>
           <li><strong>Responstiden</strong> – Akutte fugtskader eller frostsprængte fuger kan oftest udbedres samme uge – nogle gange samme dag.</li>
         </ul>
@@ -53,7 +53,7 @@ const SEOContent = () => {
 
       {/* Top tasks table */}
       <section id="top-tasks" className="content-section container mx-auto px-4 sm:px-6 lg:px-8 my-16 overflow-x-auto">
-        <h2 className="text-2xl font-semibold mb-4">De 5 mest efterspurgte mureropgaver i Næstved</h2>
+        <h2 className="text-2xl font-semibold mb-4">De 5 mest efterspurgte mureropgaver i Holbæk</h2>
         <table className="min-w-full text-sm border border-gray-200">
           <thead className="bg-gray-50">
             <tr>
@@ -104,7 +104,7 @@ const SEOContent = () => {
         <h2 className="text-2xl font-semibold mb-4">Sådan forløber et murerprojekt – trin for trin</h2>
         <ol className="list-decimal ml-6 space-y-3">
           <li>
-            <strong>Gratis rådgivning &amp; opmåling:</strong> Ring <a href={`tel:${PHONE_LINK}`} className="text-terracotta font-semibold">{PHONE_DISPLAY}</a> eller udfyld tilbudsformularen. En lokal murer fra Næstved møder op og gennemgår alt fra fundament til skorsten.
+            <strong>Gratis rådgivning &amp; opmåling:</strong> Ring <a href={`tel:${PHONE_LINK}`} className="text-terracotta font-semibold">{PHONE_DISPLAY}</a> eller udfyld tilbudsformularen. En lokal murer fra Holbæk møder op og gennemgår alt fra fundament til skorsten.
           </li>
           <li>
             <strong>Tilbud &amp; tidsplan:</strong> Du modtager et skriftligt tilbud med fast pris, realistisk tidslinje og betalingsmilepæle.
@@ -144,12 +144,12 @@ const SEOContent = () => {
         <p>Granuleret glasuld blæst i hulmur giver op til 25 % lavere varmeforbrug.</p>
         <p>Facadeisolering med netpuds kombinerer energiforbedring og moderne udtryk.</p>
         <h3 className="text-xl font-semibold mt-6 mb-2">Klimasikring</h3>
-        <p>Næstved har mere end 100 regnvejrsdage om året. Vælg høj sokkel, kapillarbrydende lag og tagrender Ø100 mm for at undgå fugtskader.</p>
+        <p>Holbæk har mere end 100 regnvejrsdage om året. Vælg høj sokkel, kapillarbrydende lag og tagrender Ø100 mm for at undgå fugtskader.</p>
       </section>
 
       {/* 5. Prisguide */}
       <section id="prices" className="content-section container mx-auto px-4 sm:px-6 lg:px-8 my-16 overflow-x-auto">
-        <h2 className="text-2xl font-semibold mb-4">Prisguide: Hvad koster en murer i Næstved?</h2>
+        <h2 className="text-2xl font-semibold mb-4">Prisguide: Hvad koster en murer i Holbæk?</h2>
         <table className="min-w-full text-sm border border-gray-200">
           <thead className="bg-gray-50">
             <tr>
@@ -198,11 +198,11 @@ const SEOContent = () => {
       {/* 7. Case Study */}
       <section id="case-study" className="content-section container mx-auto px-4 sm:px-6 lg:px-8 my-16 max-w-prose">
         <h2 className="text-2xl font-semibold mb-4">Case study – fra slidt 70’er-villa til energirigtig perle</h2>
-        <p><strong>Adresse:</strong> Centrum, Næstved</p>
+        <p><strong>Adresse:</strong> Centrum, Holbæk</p>
         <p><strong>Projekt:</strong> Facaderenovering + hulmurs­isolering</p>
         <p><strong>Varighed:</strong> 8 uger</p>
         <p><strong>Resultat:</strong> Kælderens luftfugtighed faldt fra 72 % til 58 %. Varmeregningen faldt 17 %.</p>
-        <blockquote className="border-l-4 border-terracotta pl-4 italic my-4">"Vi søgte murer Næstved og fandt dette team. Prisen holdt, tidsplanen blev overholdt, og huset ser ud som nyt. Kan varmt anbefales." – Mette &amp; Anders</blockquote>
+        <blockquote className="border-l-4 border-terracotta pl-4 italic my-4">"Vi søgte murer Holbæk og fandt dette team. Prisen holdt, tidsplanen blev overholdt, og huset ser ud som nyt. Kan varmt anbefales." – Mette &amp; Anders</blockquote>
       </section>
 
       {/* 9. Vedligeholdelse */}
@@ -219,7 +219,7 @@ const SEOContent = () => {
 
       {/* 10. Checklist */}
       <section id="checklist" className="content-section container mx-auto px-4 sm:px-6 lg:px-8 my-16 overflow-x-auto">
-        <h2 className="text-2xl font-semibold mb-4">Tjekliste før du vælger din murer i Næstved</h2>
+        <h2 className="text-2xl font-semibold mb-4">Tjekliste før du vælger din murer i Holbæk</h2>
         <table className="min-w-full text-sm border border-gray-200">
           <thead className="bg-gray-50">
             <tr>
@@ -242,15 +242,15 @@ const SEOContent = () => {
       <section id="contact" className="content-section container mx-auto px-4 sm:px-6 lg:px-8 my-16 max-w-prose">
         <h2 className="text-2xl font-semibold mb-4">Kontakt os</h2>
         <p>Telefon: <a href={`tel:${PHONE_LINK}`} className="text-terracotta font-semibold">{PHONE_DISPLAY}</a> (man-fre 07:00-18:00)</p>
-        <p>E-mail: <a href="mailto:infomurernæstved@gmail.com" className="underline">infomurernæstved@gmail.com</a></p>
-        <p>Serviceområde: Næstved + 30 km (Vordingborg, Præstø, Faxe, Køge, Haslev m.fl.)</p>
+        <p>E-mail: <a href="mailto:infomurerholbaek@gmail.com" className="underline">infomurerholbaek@gmail.com</a></p>
+        <p>Serviceområde: Holbæk + 30 km (Kalundborg, Odsherred, Lejre, Ringsted, Sorø m.fl.)</p>
         
       </section>
 
       {/* 12. Afsluttende ord & CTA */}
       <section id="conclusion" className="content-section container mx-auto px-4 sm:px-6 lg:px-8 my-16 max-w-prose text-center">
         <h2 className="text-2xl font-semibold mb-4">Afsluttende ord</h2>
-        <p className="mb-4">At finde den rette murer Næstved handler om mere end pris: Det handler om lokalt kendskab, kvalitetshåndværk og en transparent proces fra første opkald til sidste fuge. Med prisguides, tjeklister og ekspertråd her på siden står du stærkt rustet til at træffe den rigtige beslutning.</p>
+        <p className="mb-4">At finde den rette murer Holbæk handler om mere end pris: Det handler om lokalt kendskab, kvalitetshåndværk og en transparent proces fra første opkald til sidste fuge. Med prisguides, tjeklister og ekspertråd her på siden står du stærkt rustet til at træffe den rigtige beslutning.</p>
       </section>
 
       {/* Kontakt CTA (flyttet til slutningen som ekstra call) */}

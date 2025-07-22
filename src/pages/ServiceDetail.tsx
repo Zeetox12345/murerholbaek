@@ -45,10 +45,10 @@ const ServiceDetail = () => {
         'Stilladsbehov'
       ],
       timeline: '2-6 uger afhængig af projekt størrelse',
-      seoTitle: 'Facaderenovering Næstved | Omfugning, Vandskuring & Isolering – Gratis facadetjek',
-      seoDescription: 'Faglig facaderenovering i Næstved: omfugning, vandskuring, facadeisolering og netpuds. Få gratis facadescan og fast pris – ring +27 85 13 81.',
-      ogTitle: 'Facaderenovering Næstved – Giv huset nyt liv',
-      ogDescription: 'Professionel facaderenovering i Næstved. Spar energi og forlæng facadelevetiden. Kontakt os for gratis tjek.'
+          seoTitle: 'Facaderenovering Holbæk | Omfugning, Vandskuring & Isolering – Gratis facadetjek',
+    seoDescription: 'Faglig facaderenovering i Holbæk: omfugning, vandskuring, facadeisolering og netpuds. Få gratis facadescan og fast pris – ring +27 85 13 81.',
+    ogTitle: 'Facaderenovering Holbæk – Giv huset nyt liv',
+    ogDescription: 'Professionel facaderenovering i Holbæk. Spar energi og forlæng facadelevetiden. Kontakt os for gratis tjek.'
     },
     'badevaerelsesrenovering': {
       title: 'Badeværelsesrenovering',
@@ -67,10 +67,10 @@ const ServiceDetail = () => {
         'Kompleksitet af layout'
       ],
       timeline: '3-5 uger afhængig af størrelse',
-      seoTitle: 'Badeværelsesrenovering Næstved | Eksperter i vådrum – Fast pris & 3D-design',
-      seoDescription: 'Komplet badeværelsesrenovering i Næstved. Certificeret vådrum, gulvvarme, microcement & luksusfliser. Få 3D-tegning og uforpligtende tilbud.',
-      ogTitle: 'Badeværelsesrenovering Næstved – Skab drømmebadet',
-      ogDescription: 'Vi bygger moderne badeværelser i Næstved med garanti. Ring for gratis rådgivning +27 85 13 81.'
+          seoTitle: 'Badeværelsesrenovering Holbæk | Eksperter i vådrum – Fast pris & 3D-design',
+    seoDescription: 'Komplet badeværelsesrenovering i Holbæk. Certificeret vådrum, gulvvarme, microcement & luksusfliser. Få 3D-tegning og uforpligtende tilbud.',
+    ogTitle: 'Badeværelsesrenovering Holbæk – Skab drømmebadet',
+    ogDescription: 'Vi bygger moderne badeværelser i Holbæk med garanti. Ring for gratis rådgivning +27 85 13 81.'
     },
     'flisearbejde': {
       title: 'Flisearbejde',
@@ -89,10 +89,10 @@ const ServiceDetail = () => {
         'Detaljegrad'
       ],
       timeline: '1-2 uger for standard badeværelse',
-      seoTitle: 'Flisearbejde Næstved | Fliser, Klinker & Natursten – Millimeterpræcision',
-      seoDescription: 'Perfekt flisearbejde i Næstved til køkken, bad & terrasse. Vi leverer skærefaste fuger og slidstærke løsninger. Gratis rådgivning – kontakt os.',
-      ogTitle: 'Flisearbejde Næstved – Flotte fliser der holder',
-      ogDescription: 'Din specialist i fliser og klinker i Næstved. Få fast m²-pris og garanti.'
+          seoTitle: 'Flisearbejde Holbæk | Fliser, Klinker & Natursten – Millimeterpræcision',
+    seoDescription: 'Perfekt flisearbejde i Holbæk til køkken, bad & terrasse. Vi leverer skærefaste fuger og slidstærke løsninger. Gratis rådgivning – kontakt os.',
+    ogTitle: 'Flisearbejde Holbæk – Flotte fliser der holder',
+    ogDescription: 'Din specialist i fliser og klinker i Holbæk. Få fast m²-pris og garanti.'
     },
     'tilbygninger': {
       title: 'Tilbygninger',
@@ -111,10 +111,10 @@ const ServiceDetail = () => {
         'Terrænforhold'
       ],
       timeline: '3-8 uger afhængig af størrelse',
-      seoTitle: 'Tilbygning Næstved | Garage, Udestue & Overetage – Én totalentreprenør',
-      seoDescription: 'Skal du bygge til? Vi designer og opfører tilbygninger i Næstved med byggetilladelse, energiberegning og fast pris. Gratis skitseforslag – ring +27 85 13 81.',
-      ogTitle: 'Tilbygning Næstved – Udvid boligen med værdi',
-      ogDescription: 'Få mere plads med en professionel tilbygning i Næstved. Kontakt os for uforpligtende møde.'
+          seoTitle: 'Tilbygning Holbæk | Garage, Udestue & Overetage – Én totalentreprenør',
+    seoDescription: 'Skal du bygge til? Vi designer og opfører tilbygninger i Holbæk med byggetilladelse, energiberegning og fast pris. Gratis skitseforslag – ring +27 85 13 81.',
+    ogTitle: 'Tilbygning Holbæk – Udvid boligen med værdi',
+    ogDescription: 'Få mere plads med en professionel tilbygning i Holbæk. Kontakt os for uforpligtende møde.'
     }
   };
 
@@ -124,7 +124,7 @@ const ServiceDetail = () => {
   useEffect(() => {
     if (service) {
       // Dynamic <title>
-      document.title = service.seoTitle ?? `${service.title} Næstved | Murermester Næstved`;
+      document.title = service.seoTitle ?? `${service.title} Holbæk | Murermester Holbæk`;
 
       // Meta Description
       const metaDesc = document.querySelector("meta[name='description']");
@@ -307,7 +307,7 @@ const ServiceDetail = () => {
                       <a href={`tel:${PHONE_LINK}`}>Ring {PHONE_DISPLAY}</a>
                     </Button>
                     <Button asChild variant="outline" className="w-full">
-                      <a href="mailto:infomurernæstved@gmail.com">Send email</a>
+                      <a href="mailto:infomurerholbaek@gmail.com">Send email</a>
                     </Button>
                   </div>
                 </CardContent>

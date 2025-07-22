@@ -14,15 +14,15 @@ const Footer = () => {
             <div className="flex items-center space-x-2 mb-4">
               <img
                 src="/favicon.png"
-                alt="Murer Næstved Logo"
+                alt="Murer Holbæk Logo"
                 className="h-10 w-auto object-contain"
               />
               <span className="font-montserrat font-bold text-xl">
-                Murer Næstved
+                Murer Holbæk
               </span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
-              Professionel murermester i Næstved med speciale i facaderenovering, 
+              Professionel murermester i Holbæk med speciale i facaderenovering, 
               badeværelser og flisearbejde. Vi leverer altid kvalitet til tiden.
             </p>
             <div className="space-y-2">
@@ -34,13 +34,13 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 text-terracotta" />
-                        <a href="mailto:infomurernaestved@gmail.com" className="hover:text-terracotta transition-colors">
-          infomurernaestved@gmail.com
+                        <a href="mailto:infomurerholbaek@gmail.com" className="hover:text-terracotta transition-colors">
+          infomurerholbaek@gmail.com
                 </a>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="w-4 h-4 text-terracotta" />
-                <span>Næstved, Sjælland</span>
+                <span>Holbæk, Sjælland</span>
               </div>
             </div>
           </div>
@@ -74,11 +74,11 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-gray-700 text-center text-gray-400">
           <p className="mb-2">
-            © 2025 Murer Næstved. Alle rettigheder forbeholdes.
+            © 2025 Murer Holbæk. Alle rettigheder forbeholdes.
           </p>
           <p className="text-sm">
             Disclaimer: Denne side formidler kontakt til autoriserede murermestre. 
-            murernaestved.dk formidler kontakt til autoriserede murermestre i Næstved.
+            murerholbaek.dk formidler kontakt til autoriserede murermestre i Holbæk.
           </p>
         </div>
       </div>
